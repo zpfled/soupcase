@@ -1,6 +1,6 @@
 {
   "name": "soupcase",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JS utility for converting entire objects to different cases",
   "main": "index.js",
   "scripts": {
